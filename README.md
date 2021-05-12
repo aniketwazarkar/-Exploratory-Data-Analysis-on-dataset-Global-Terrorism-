@@ -1,5 +1,3 @@
-# -Exploratory-Data-Analysis-on-dataset-Global-Terrorism-
-As a security/defense analyst, try to find out the hot zone of terrorism.
 # Task-4-Exploratory-Data-Analysis-Terrorism
 Here in this project I have analysed the huge dataset of Terrorism where all the details are being provided
 
